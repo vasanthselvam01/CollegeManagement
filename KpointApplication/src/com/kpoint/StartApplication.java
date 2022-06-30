@@ -7,6 +7,7 @@ public class StartApplication {
 		System.out.println("Started the project and deployed");
 		
 		System.out.println("New statement is added");
+		System.out.println("New changes");
 	}
 
 }
