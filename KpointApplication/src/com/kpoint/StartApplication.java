@@ -8,6 +8,7 @@ public class StartApplication {
 		
 		System.out.println("New statement is added");
 		System.out.println("New changes");
+		System.out.println("New changes1");
 	}
 
 }
